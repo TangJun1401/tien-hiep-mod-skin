@@ -1,0 +1,699 @@
+<SkillTree><List>
+	<Node Name="GongYJ_a0" Gong="Gong_YJ_None">
+		<Esoterica>Magic_MakeHorse_1</Esoterica>
+		<DisplayName>Phong Linh Thuật</DisplayName>
+		<Level>Qi</Level>
+		<Index>0</Index>
+	<!--	<Layers>
+			<li>Gong1_a1_2</li>
+			<li>Gong1_a1_3</li>
+		</Layers>-->
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<PreUnit>
+		<!--	<li></li>-->
+		</PreUnit>
+		<MutexUnit>
+		<!--	<li></li>-->
+		</MutexUnit>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<Skills>
+			<!--<li Name="" Level="1"/>-->
+		</Skills>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+	 	
+	<Node Name="GongYJ_a1" Gong="Gong_YJ_None">
+		<Level>Qi</Level>
+		<Index>1</Index>
+		<Line>0,0,0,0,0,1,2,0</Line>	
+	</Node>
+	
+	<Node Name="GongYJ_a2" Gong="Gong_YJ_None">
+		<Esoterica>GongYJ_Esoterica_1</Esoterica>
+		<DisplayName>Kiếm Ý</DisplayName>
+		<Level>Qi</Level>
+		<Index>2</Index>
+		<Line>0,0,0,0,1,1,1,1</Line>
+		<Layers>
+			<li>GongYJ_a2_1</li>
+			<li>GongYJ_a2_2</li>
+		</Layers>
+		<PreUnit>
+		<!--	<li></li>-->
+		</PreUnit>
+		<MutexUnit>
+		<!--	<li></li>-->
+		</MutexUnit>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<Skills>
+			<!--<li Name="" Level="1"/>-->
+		</Skills>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+	
+	<Node Name="GongYJ_a2_1" Gong="Gong_YJ_None">
+		<Esoterica>GongYJ_LvUpEsoterica_1</Esoterica>
+		<DisplayName>Kiếm Ý</DisplayName>
+		<Level>None</Level>
+	</Node>
+	
+	<Node Name="GongYJ_a2_2" Gong="Gong_YJ_None">
+		<Esoterica>GongYJ_LvUpEsoterica_2</Esoterica>
+		<DisplayName>Kiếm Ý</DisplayName>
+		<Level>None</Level>
+	</Node>
+	
+	<Node Name="GongYJ_a3" Gong="Gong_YJ_None">
+		<Level>Qi</Level>
+		<Index>3</Index>
+		<Line>0,0,0,0,0,0,2,1</Line>	
+	</Node>
+	
+	<Node Name="GongYJ_a4" Gong="Gong_YJ_None">
+		<Level>Qi</Level>
+		<Index>4</Index>
+		<Line>0,0,0,0,0,1,2,0</Line>	
+	</Node>
+	
+	<Node Name="GongYJ_a5" Gong="Gong_YJ_None">
+		<Esoterica>GongYJ_Esoterica_4</Esoterica>
+		<DisplayName>Ngự Kiếm Thuật</DisplayName>
+		<Level>Qi</Level>
+		<Index>5</Index>
+		<Line>0,0,0,0,1,1,0,1</Line>
+		<Layers>
+			<li>GongYJ_a5_1</li>
+			<li>GongYJ_a5_2</li>
+		</Layers>
+		<PreUnit>
+		<!--	<li></li>-->
+		</PreUnit>
+		<MutexUnit>
+		<!--	<li></li>-->
+		</MutexUnit>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<Skills>
+			<!--<li Name="" Level="1"/>-->
+		</Skills>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+	
+	<Node Name="GongYJ_a5_1" Gong="Gong_YJ_None">
+		<Esoterica>GongYJ_LvUpEsoterica_3</Esoterica>
+		<DisplayName>Ngự Kiếm Thuật</DisplayName>
+		<Level>None</Level>
+	</Node>
+	
+	<Node Name="GongYJ_a5_2" Gong="Gong_YJ_None">
+		<Esoterica>GongYJ_LvUpEsoterica_4</Esoterica>
+		<DisplayName>Ngự Kiếm Thuật</DisplayName>
+		<Level>None</Level>
+	</Node>
+	
+		
+	<Node Name="GongYJ_a6" Gong="Gong_YJ_None">
+		<Level>Qi</Level>
+		<Index>6</Index>
+		<Line>0,0,0,0,0,0,2,1</Line>	
+	</Node>
+	
+	<Node Name="GongYJ_b0" Gong="Gong_YJ_None">
+		<Esoterica>Magic_AbsorbLing_Aoe_1</Esoterica>
+		<DisplayName>Linh Tức Quyết</DisplayName>
+		<Level>Dan1</Level>
+		<Index>0</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<PreUnit>
+		<!--	<li></li>-->
+		</PreUnit>
+		<MutexUnit>
+		<!--	<li></li>-->
+		</MutexUnit>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<Skills>
+			<!--<li Name="" Level="1"/>-->
+		</Skills>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+	
+	<Node Name="GongYJ_b1" Gong="Gong_YJ_None">
+		<Esoterica>Magic_AbsorbGong_8_1</Esoterica>
+		<DisplayName>Thanh Tâm Chú</DisplayName>
+		<Level>Dan1</Level>
+		<Index>1</Index>
+		<Line>0,0,0,0,0,1,2,0</Line>
+		<MutexUnit>
+		<!--	<li></li>-->
+		</MutexUnit>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<Skills>
+			<!--<li Name="" Level="1"/>-->
+		</Skills>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+	
+	<Node Name="GongYJ_b2" Gong="Gong_YJ_None">
+		<Level>Dan1</Level>
+		<Index>2</Index>
+		<Line>1,0,1,0,1,0,1,1</Line>	
+	</Node>
+		
+	<Node Name="GongYJ_b3" Gong="Gong_YJ_None">
+		<Esoterica>GongYJ_Esoterica_2</Esoterica>
+		<DisplayName>Ngự Kiếm Phục Ma Thể</DisplayName>
+		<Level>Dan1</Level>
+		<Index>3</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<PreUnit>
+			<li>GongYJ_a2</li>
+		</PreUnit>
+		<MutexUnit>
+		<!--	<li></li>-->
+		</MutexUnit>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<Skills>
+			<!--<li Name="" Level="1"/>-->
+		</Skills>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+	
+	<Node Name="GongYJ_b4" Gong="Gong_YJ_None">
+		<Esoterica>GongYJ_Esoterica_5</Esoterica>
+		<DisplayName>Kiếm Tâm Thông Minh</DisplayName>
+		<Level>Dan1</Level>
+		<Index>4</Index>
+		<Line>0,0,0,0,1,0,2,0</Line>
+		<PreUnit>
+			<li>GongYJ_a5</li>
+		</PreUnit>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<Skills>
+			<!--<li Name="" Level="1"/>-->
+		</Skills>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+	
+	<Node Name="GongYJ_b6" Gong="Gong_YJ_None">
+		<Esoterica>GongYJ_Esoterica_6</Esoterica>
+		<DisplayName>Tâm Kiếm Giao Cảm</DisplayName>
+		<Level>Dan1</Level>
+		<Index>6</Index>
+		<Line>0,0,0,0,1,0,2,0</Line>
+		<PreUnit>
+			<li>GongYJ_a5</li>
+		</PreUnit>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<Skills>
+			<!--<li Name="" Level="1"/>-->
+		</Skills>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+	
+	<Node Name="GongYJ_b8" Gong="Gong_YJ_None">
+		<Esoterica>GongYJ_Esoterica_11</Esoterica>
+		<DisplayName>Kích Tự Quyết</DisplayName>
+		<Level>Dan1</Level>
+		<Index>8</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<Layers>
+			<li>GongYJ_c8</li>
+			<li>GongYJ_d8</li>
+		</Layers>
+		<PreUnit>
+		<!--	<li></li>-->
+		</PreUnit>
+		<MutexUnit>
+		<!--	<li></li>-->
+		</MutexUnit>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<Skills>
+			<!--<li Name="" Level="1"/>-->
+		</Skills>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+	
+	<Node Name="GongYJ_c8" Gong="Gong_YJ_None">
+		<Esoterica>GongYJ_Esoterica_14</Esoterica>
+		<DisplayName>Băng Tự Quyết</DisplayName>
+		<Level>None</Level>
+	</Node>
+	
+	<Node Name="GongYJ_d8" Gong="Gong_YJ_None">
+		<Esoterica>GongYJ_Esoterica_17</Esoterica>
+		<DisplayName>Ngự Tự Quyết</DisplayName>
+		<Level>None</Level>
+	</Node>
+	
+	<Node Name="GongYJ_b9" Gong="Gong_YJ_None">
+		<Esoterica>GongYJ_Esoterica_12</Esoterica>
+		<DisplayName>Thứ Tự Quyết</DisplayName>
+		<Level>Dan1</Level>
+		<Index>9</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<Layers>
+			<li>GongYJ_c9</li>
+			<li>GongYJ_d9</li>
+		</Layers>
+		<PreUnit>
+		<!--	<li></li>-->
+		</PreUnit>
+		<MutexUnit>
+		<!--	<li></li>-->
+		</MutexUnit>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<Skills>
+			<!--<li Name="" Level="1"/>-->
+		</Skills>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+	
+	<Node Name="GongYJ_c9" Gong="Gong_YJ_None">
+		<Esoterica>GongYJ_Esoterica_15</Esoterica>
+		<DisplayName>Điểm Tự Quyết</DisplayName>
+		<Level>None</Level>
+	</Node>
+	
+	<Node Name="GongYJ_d9" Gong="Gong_YJ_None">
+		<Esoterica>GongYJ_Esoterica_18</Esoterica>
+		<DisplayName>Hóa Tự Quyết</DisplayName>
+		<Level>None</Level>
+	</Node>
+	
+	<Node Name="GongYJ_b10" Gong="Gong_YJ_None">
+		<Esoterica>GongYJ_Esoterica_13</Esoterica>
+		<DisplayName>Tẩy Tự Quyết</DisplayName>
+		<Level>Dan1</Level>
+		<Index>10</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<Layers>
+			<li>GongYJ_c10</li>
+			<li>GongYJ_d10</li>
+		</Layers>
+		<PreUnit>
+		<!--	<li></li>-->
+		</PreUnit>
+		<MutexUnit>
+		<!--	<li></li>-->
+		</MutexUnit>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<Skills>
+			<!--<li Name="" Level="1"/>-->
+		</Skills>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+	
+	<Node Name="GongYJ_c10" Gong="Gong_YJ_None">
+		<Esoterica>GongYJ_Esoterica_16</Esoterica>
+		<DisplayName>Phách Tự Quyết</DisplayName>
+		<Level>None</Level>
+	</Node>
+	
+	<Node Name="GongYJ_d10" Gong="Gong_YJ_None">
+		<Esoterica>GongYJ_Esoterica_19</Esoterica>
+		<DisplayName>Phân Tự Quyết</DisplayName>
+		<Level>None</Level>
+	</Node>
+	
+	<Node Name="GongYJ_c0" Gong="Gong_YJ_None">
+		<Esoterica>Magic_ClosedDoor_1</Esoterica>
+		<DisplayName>Nhập Định Chi Thuật</DisplayName>
+		<Level>Dan2</Level>
+		<Index>0</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<Layers>
+			<li>GongYJ_c0_1</li>
+		</Layers>
+		<PreUnit>
+		<!--	<li></li>-->
+		</PreUnit>
+		<MutexUnit>
+		<!--	<li></li>-->
+		</MutexUnit>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<Skills>
+			<!--<li Name="" Level="1"/>-->
+		</Skills>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+	
+	<Node Name="GongYJ_c0_1" Gong="Gong_YJ_None">
+		<Esoterica>Gong4_LvUpEsoterica_2</Esoterica>
+		<DisplayName>Ngọc Thanh Định Cảnh</DisplayName>
+		<Level>None</Level>
+	</Node>
+	
+	<Node Name="GongYJ_c1" Gong="Gong_YJ_None">
+		<Esoterica>Magic_RebornSelf</Esoterica>
+		<DisplayName>Huyền Tẫn Trọng Sinh</DisplayName>
+		<Level>Dan2</Level>
+		<Index>1</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<Layers>
+			<li>GongYJ_c1_1</li>
+		</Layers>
+		<PreUnit>
+		<!--	<li></li>-->
+		</PreUnit>
+		<MutexUnit>
+		<!--	<li></li>-->
+		</MutexUnit>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<Skills>
+			<!--<li Name="" Level="1"/>-->
+		</Skills>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+	
+	<Node Name="GongYJ_c1_1" Gong="Gong_YJ_None">
+		<Esoterica>Gong9_LvUpEsoterica_2</Esoterica>
+		<DisplayName>Lục Đạo Luân Hồi Đan</DisplayName>
+		<Level>None</Level>
+	</Node>
+		
+	<Node Name="GongYJ_c2" Gong="Gong_YJ_None">
+		<Level>Dan2</Level>
+		<Index>2</Index>
+		<Line>1,0,1,0,1,0,2,0</Line>	
+	</Node>
+	
+	<Node Name="GongYJ_c4" Gong="Gong_YJ_None">
+		<Esoterica>GongYJ_Esoterica_7</Esoterica>
+		<DisplayName>Thần Ngự Kiếm</DisplayName>
+		<Level>Dan2</Level>
+		<Index>4</Index>
+		<Line>0,0,0,0,1,0,2,0</Line>
+		<PreUnit>
+			<li>GongYJ_b4</li>
+		</PreUnit>
+		<MutexUnit>
+		<!--	<li></li>-->
+		</MutexUnit>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<Skills>
+			<!--<li Name="" Level="1"/>-->
+		</Skills>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+	
+	<Node Name="GongYJ_c6" Gong="Gong_YJ_None">
+		<Esoterica>GongYJ_Esoterica_8</Esoterica>
+		<DisplayName>Thần Hợp Kiếm</DisplayName>
+		<Level>Dan2</Level>
+		<Index>6</Index>
+		<Line>0,0,0,0,1,0,2,0</Line>
+		<PreUnit>
+			<li>GongYJ_b6</li>
+		</PreUnit>
+		<MutexUnit>
+		<!--	<li></li>-->
+		</MutexUnit>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<Skills>
+			<!--<li Name="" Level="1"/>-->
+		</Skills>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+		
+	<Node Name="GongYJ_c11" Gong="Gong_YJ_None">
+		<Esoterica>Magic_BuildBody_1</Esoterica>
+		<DisplayName>Tái Tạo Thuật</DisplayName>
+		<Level>Dan2</Level>
+		<Index>11</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<Layers>
+			<li>GongYJ_c11_1</li>
+		</Layers>
+		<MutexUnit>
+		<!--	<li></li>-->
+		</MutexUnit>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<Skills>
+			<!--<li Name="" Level="1"/>-->
+		</Skills>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+	
+	<Node Name="GongYJ_c11_1" Gong="Gong_YJ_None">
+		<Esoterica>Magic_ZaoHuaSuTi</Esoterica>
+		<DisplayName>Tạo Hóa Tố Thể</DisplayName>
+		<Level>None</Level>
+	</Node>
+	
+	<Node Name="GongYJ_d1" Gong="Gong_YJ_None">
+		<Esoterica>Gong11_Esoterica_16</Esoterica>
+		<DisplayName>Khôn Nguyên Chân Khí</DisplayName>
+		<Level>God</Level>
+		<Index>1</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<Layers>
+			<li>GongYJ_d1_1</li>
+			<li>GongYJ_d1_2</li>
+			<li>GongYJ_d1_3</li>
+		</Layers>
+		<MutexUnit>
+		<!--	<li></li>-->
+		</MutexUnit>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<Skills>
+			<!--<li Name="" Level="1"/>-->
+		</Skills>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+	
+	<Node Name="GongYJ_d1_1" Gong="Gong_YJ_None">
+		<Esoterica>Gong11_LvUpEsoterica_9</Esoterica>
+		<DisplayName>Khôn Nguyên Chân Khí</DisplayName>
+		<Level>None</Level>
+	</Node>
+	
+	<Node Name="GongYJ_d1_2" Gong="Gong_YJ_None">
+		<Esoterica>Gong11_LvUpEsoterica_10</Esoterica>
+		<DisplayName>Khôn Nguyên Chân Khí</DisplayName>
+		<Level>None</Level>
+	</Node>
+	
+	<Node Name="GongYJ_d1_3" Gong="Gong_YJ_None">
+		<Esoterica>Gong11_LvUpEsoterica_11</Esoterica>
+		<DisplayName>Khôn Nguyên Chân Khí</DisplayName>
+		<Level>None</Level>
+	</Node>
+	
+	<Node Name="GongYJ_d2" Gong="Gong_YJ_None">
+		<Esoterica>GongYJ_Esoterica_3</Esoterica>
+		<DisplayName>Phục Ma Kiếm Ý</DisplayName>
+		<Level>God</Level>
+		<Index>2</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<Layers>
+			<li>GongYJ_d2_1</li>
+			<li>GongYJ_d2_2</li>
+		</Layers>
+		<PreUnit>
+			<li>GongYJ_a2</li>
+		</PreUnit>
+		<MutexUnit>
+		<!--	<li></li>-->
+		</MutexUnit>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<Skills>
+			<!--<li Name="" Level="1"/>-->
+		</Skills>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+	
+	<Node Name="GongYJ_d2_1" Gong="Gong_YJ_None">
+		<Esoterica>GongYJ_LvUpEsoterica_5</Esoterica>
+		<DisplayName>Kiếm Linh</DisplayName>
+		<Level>None</Level>
+	</Node>
+	
+	
+	<Node Name="GongYJ_d2_2" Gong="Gong_YJ_None">
+		<Esoterica>GongYJ_LvUpEsoterica_10</Esoterica>
+		<DisplayName>Bí Bảo: Vô Trần, Trấn Yêu Kiếm</DisplayName>
+		<Level>None</Level>
+	</Node>
+	
+	<Node Name="GongYJ_d4" Gong="Gong_YJ_None">
+		<Esoterica>GongYJ_Esoterica_9</Esoterica>
+		<DisplayName>Cực Kiếm</DisplayName>
+		<Level>God</Level>
+		<Index>4</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<Layers>
+			<li>GongYJ_d4_1</li>
+			<li>GongYJ_d4_2</li>
+		</Layers>
+		<PreUnit>
+			<li>GongYJ_c4</li>
+		</PreUnit>
+		<MutexUnit>
+		<!--	<li></li>-->
+		</MutexUnit>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<Skills>
+			<!--<li Name="" Level="1"/>-->
+		</Skills>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+	
+	<Node Name="GongYJ_d4_1" Gong="Gong_YJ_None">
+		<Esoterica>GongYJ_LvUpEsoterica_6</Esoterica>
+		<DisplayName>Cực Kiếm</DisplayName>
+		<Level>None</Level>
+	</Node>
+	
+	<Node Name="GongYJ_d4_2" Gong="Gong_YJ_None">
+		<Esoterica>GongYJ_LvUpEsoterica_8</Esoterica>
+		<DisplayName>Cực Kiếm</DisplayName>
+		<Level>None</Level>
+	</Node>
+	
+	<Node Name="GongYJ_d6" Gong="Gong_YJ_None">
+		<Esoterica>GongYJ_Esoterica_10</Esoterica>
+		<DisplayName>Ngã Kiếm</DisplayName>
+		<Level>God</Level>
+		<Index>6</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<Layers>
+			<li>GongYJ_d6_1</li>
+			<li>GongYJ_d6_2</li>
+		</Layers>
+		<PreUnit>
+			<li>GongYJ_c6</li>
+		</PreUnit>
+		<MutexUnit>
+		<!--	<li></li>-->
+		</MutexUnit>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<Skills>
+			<!--<li Name="" Level="1"/>-->
+		</Skills>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+	
+	<Node Name="GongYJ_d6_1" Gong="Gong_YJ_None">
+		<Esoterica>GongYJ_LvUpEsoterica_7</Esoterica>
+		<DisplayName>Ngã Kiếm</DisplayName>
+		<Level>None</Level>
+	</Node>
+	
+	<Node Name="GongYJ_d6_2" Gong="Gong_YJ_None">
+		<Esoterica>GongYJ_LvUpEsoterica_9</Esoterica>
+		<DisplayName>Ngã Kiếm</DisplayName>
+		<Level>None</Level>
+	</Node>
+
+	<Node Name="GongYJ_d11" Gong="Gong_YJ_None">
+		<Esoterica>Gong9_Esoterica_14</Esoterica>
+		<DisplayName>Tu La Chi Thể</DisplayName>
+		<Level>God</Level>
+		<Index>11</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<Layers>
+			<li>Gong9_d11_1</li>
+			<li>Gong9_d11_2</li>
+		</Layers>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<Skills>
+			<!--<li Name="" Level="1"/>-->
+		</Skills>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+	
+	<Node Name="GongYJ_d11_1" Gong="Gong_YJ_None">
+		<Esoterica>Gong9_LvUpEsoterica_8</Esoterica>
+		<DisplayName>Tu La Chi Thể</DisplayName>
+		<Level>None</Level>
+	</Node>
+	
+	<Node Name="GongYJ_d11_2" Gong="Gong_YJ_None">
+		<Esoterica>Gong9_LvUpEsoterica_11</Esoterica>
+		<DisplayName>Tu La Chi Thể</DisplayName>
+		<Level>None</Level>
+	</Node>
+		
+	<Node Name="GongYJ_e4" Gong="Gong_YJ_None">
+		<Esoterica>God2_Dan</Esoterica>
+		<DisplayName>Thiên Đạo Thần Đan</DisplayName>
+		<Level>God2</Level>
+		<Index>4</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<PreUnit>
+		<!--	<li></li>-->
+		</PreUnit>
+		<MutexUnit>
+		<!--	<li></li>-->
+		</MutexUnit>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<Skills>
+			<li Name="Medicine" Level="20"/>
+		</Skills>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+	
+	<Node Name="GongYJ_e8" Gong="Gong_YJ_None">
+		<Esoterica>God2_Fabao</Esoterica>
+		<DisplayName>Thiên Đạo Thần Khí</DisplayName>
+		<Level>God2</Level>
+		<Index>8</Index>
+		<Line>0,0,0,0,0,0,0,0</Line>
+		<PreUnit>
+		<!--	<li></li>-->
+		</PreUnit>
+		<MutexUnit>
+		<!--	<li></li>-->
+		</MutexUnit>
+		<FiveBase>0,0,0,0,0</FiveBase>
+		<Skills>
+			<li Name="Manual" Level="20"/>
+		</Skills>
+		<LingMax>0</LingMax>
+		<GoldLevel>0</GoldLevel>
+		<GodCount>0</GodCount>
+	</Node>
+</List></SkillTree> 

@@ -1,0 +1,16 @@
+<Experiences><List>
+	<Experience Name="Experiences-nvwa">
+		<DisplayName>Hậu Nhân Nữ Oa</DisplayName>
+		<Desc>Hậu nhân Nữ Oa có tư chất Đan Khí và Thuật Pháp tuyệt hảo, đồng thời tăng đáng kể uy lực Thuật Pháp.</Desc>
+		<Point>-1</Point>
+		<ModifierDef>
+			<Skills>
+				<li Name="DanQi" Level="5"/>
+				<li Name="FightSkill" Level="5"/>
+			</Skills>
+		</ModifierDef>	
+		<Properties>
+				<li Name="NpcFight_SpellPowerAddP" BAddP="0.9"/>
+		</Properties>	
+	</Experience>	
+</List></Experiences>

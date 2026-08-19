@@ -1,0 +1,249 @@
+<ModifierDefs><List>
+	
+	<Modifier Name="God2_Fabao" Type="Normal">
+		<DisplayName>God2_Fabao</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="FabaoMake_TwelveRateChance" AddP="10"/>
+			<li Name="FabaoMake_SpeedAddV" AddV="-10"/>
+		</Properties>
+	</Modifier>
+	<!--==================================================-->
+	<Modifier Name="GongYJ_Esoterica_1" Type="Normal">
+		<DisplayName>GongYJ_Esoterica_1</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="MindStateBaseValue" AddV="10"/>
+			<li Name="NpcFight_FabaoPowerAddP" BAddP="0.2"/>
+		</Properties>
+	</Modifier> 
+	
+	<Modifier Name="GongYJ_Esoterica_2" Type="Normal">
+		<DisplayName>GongYJ_Esoterica_2</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="NpcLingMaxValue" AddV="30000"/>
+			<li Name="GongMatch_JinAddV" AddV="0.3"/>
+			<li Name="GongMatch_MuAddV" AddV="0.3"/>
+			<li Name="GongMatch_ShuiAddV" AddV="0.3"/>
+			<li Name="GongMatch_HuoAddV" AddV="0.3"/>
+			<li Name="GongMatch_TuAddV" AddV="0.3"/>
+			<li Name="GongMatch_NoneAddV" AddV="0.3"/>
+		</Properties>
+	</Modifier> 
+	
+	<Modifier Name="GongYJ_Esoterica_3" Type="Normal">
+		<DisplayName>GongYJ_Esoterica_3</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="NpcFight_FabaoNum" AddV="1"/>
+
+			<li Name="NpcFight_FabaoPowerAddP" AddP="25"/>
+			<li Name="NpcFight_FabaoLingRecoverAddP" AddP="80"/>
+			<li Name="NpcFight_FabaoMaxLingAddP" AddP="80"/>
+			<li Name="NpcFight_FabaoLingRecoverK" AddV="1.5"/>
+			
+			<li Name="NpcFight_FabaoFlySpeedAddP" AddV="1"/>
+			<li Name="NpcFight_FabaoTurnSpeedAddP" AddV="1"/>
+			<li Name="NpcFight_FabaoTrailingLengthAddP" AddV="1"/>
+			
+			<li Name="NpcFight_FabaoRepelDistanceAddV" AddV="1"/>
+			<li Name="NpcFight_FabaoRepelResistanceAddV" AddP="1"/>
+		</Properties>
+	</Modifier> 
+	
+	<Modifier Name="GongYJ_Esoterica_4" Type="Normal">
+		<DisplayName>GongYJ_Esoterica_4</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="NpcFight_FabaoLingRecoverK" AddV="1"/>
+		</Properties>
+	</Modifier> 
+	
+	<Modifier Name="GongYJ_Esoterica_5" Type="Normal">
+		<DisplayName>GongYJ_Esoterica_5</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="MindStateBaseValue" AddV="10"/>
+			
+			<li Name="NpcFight_FabaoPowerAddP" BAddP="0.2"/>
+			<li Name="NpcFight_FabaoFlySpeedAddP" BAddP="0.2"/>
+			<li Name="NpcFight_FabaoTurnSpeedAddP" BAddP="0.2"/>
+		</Properties>
+	</Modifier> 
+	
+	
+	<Modifier Name="GongYJ_Esoterica_6" Type="Normal">
+		<DisplayName>GongYJ_Esoterica_6</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="MindStateBaseValue" AddV="10"/>
+			
+			<li Name="NpcFight_FabaoPowerAddP" BAddP="0.2"/>
+			<li Name="NpcFight_FabaoMaxLingAddP" BAddP="0.2"/>
+			<li Name="NpcFight_FabaoLingRecoverAddP" BAddP="0.2"/>
+		
+		</Properties>
+	</Modifier> 
+	
+	<Modifier Name="GongYJ_Esoterica_7" Type="Normal">
+		<DisplayName>GongYJ_Esoterica_7</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="MindStateBaseValue" AddV="10"/>
+			
+			<li Name="NpcFight_FabaoPowerAddP" BAddP="0.2"/>
+			<li Name="NpcFight_FabaoFlySpeedAddP" BAddP="0.2"/>
+			<li Name="NpcFight_FabaoTurnSpeedAddP" BAddP="0.2"/>
+		</Properties>
+	</Modifier> 
+	
+	<Modifier Name="GongYJ_Esoterica_8" Type="Normal">
+		<DisplayName>GongYJ_Esoterica_8</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="MindStateBaseValue" AddV="10"/>
+			
+			<li Name="NpcFight_FabaoPowerAddP" BAddP="0.2"/>
+			<li Name="NpcFight_FabaoMaxLingAddP" BAddP="0.2"/>
+			<li Name="NpcFight_FabaoLingRecoverAddP" BAddP="0.2"/>
+		
+		</Properties>
+	</Modifier> 
+	
+	<Modifier Name="GongYJ_Esoterica_9" Type="Normal">
+		<DisplayName>GongYJ_Esoterica_9</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="MindStateBaseValue" AddV="30"/>
+			
+			<li Name="NpcFight_FabaoFlySpeedAddP" AddP="2"/>
+			<li Name="NpcFight_FabaoTurnSpeedAddP" AddP="2"/>
+		
+		</Properties>
+	</Modifier> 
+	
+	<Modifier Name="GongYJ_Esoterica_10" Type="Normal">
+		<DisplayName>GongYJ_Esoterica_10</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="MindStateBaseValue" AddV="30"/>
+			
+			<li Name="NpcFight_FabaoMaxLingAddP" AddP="90"/>
+			<li Name="NpcFight_FabaoLingRecoverAddP" AddP="90"/>
+		</Properties>
+	</Modifier> 
+	
+	<Modifier Name="GongYJ_Esoterica_11" Type="Normal">
+		<DisplayName>GongYJ_Esoterica_11</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="NpcFight_FabaoPowerAddP" AddP="5"/>
+		</Properties>
+	</Modifier> 
+	
+	<Modifier Name="GongYJ_Esoterica_12" Type="Normal">
+		<DisplayName>GongYJ_Esoterica_12</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="NpcFight_FabaoFlySpeedAddP" AddP="0.6"/>
+		</Properties>
+	</Modifier> 
+	
+	<Modifier Name="GongYJ_Esoterica_13" Type="Normal">
+		<DisplayName>GongYJ_Esoterica_13</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="NpcFight_FabaoMaxLingAddP" AddP="8"/>
+		</Properties>
+	</Modifier> 
+	
+	<Modifier Name="GongYJ_Esoterica_14" Type="Normal">
+		<DisplayName>GongYJ_Esoterica_14</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="NpcFight_FabaoPowerAddP" AddP="10"/>
+		</Properties>
+	</Modifier> 
+	
+	<Modifier Name="GongYJ_Esoterica_15" Type="Normal">
+		<DisplayName>GongYJ_Esoterica_15</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="NpcFight_FabaoFlySpeedAddP" AddP="1.2"/>
+		</Properties>
+	</Modifier> 
+	
+	<Modifier Name="GongYJ_Esoterica_16" Type="Normal">
+		<DisplayName>GongYJ_Esoterica_16</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="NpcFight_FabaoMaxLingAddP" AddP="16"/>
+		</Properties>
+	</Modifier> 
+	
+	<Modifier Name="GongYJ_Esoterica_17" Type="Normal">
+		<DisplayName>GongYJ_Esoterica_17</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="NpcFight_FabaoPowerAddP" AddP="15"/>
+		</Properties>
+	</Modifier> 
+	
+	<Modifier Name="GongYJ_Esoterica_18" Type="Normal">
+		<DisplayName>GongYJ_Esoterica_18</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="NpcFight_FabaoFlySpeedAddP" AddP="1.8"/>
+		</Properties>
+	</Modifier> 
+	
+	<Modifier Name="GongYJ_Esoterica_19" Type="Normal">
+		<DisplayName>GongYJ_Esoterica_19</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="NpcFight_FabaoMaxLingAddP" AddP="24"/>
+		</Properties>
+	</Modifier> 
+	
+</List></ModifierDefs>

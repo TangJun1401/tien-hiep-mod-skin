@@ -1,0 +1,64 @@
+<ModifierDefs><List>
+	<Modifier Name="GongYJ_LvUpEsoterica_1" Type="Normal">
+		<DisplayName>GongYJ_LvUpEsoterica_1</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="MindStateBaseValue" AddV="10"/>
+			<li Name="NpcFight_FabaoPowerAddP" BAddP="0.2"/>
+		</Properties>
+	</Modifier> 
+	<Modifier Name="GongYJ_LvUpEsoterica_3" Type="Normal">
+		<DisplayName>GongYJ_LvUpEsoterica_3</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="NpcFight_FabaoLingRecoverK" AddV="1"/>
+		</Properties>
+	</Modifier> 
+	<Modifier Name="GongYJ_LvUpEsoterica_5" Type="Normal">
+		<DisplayName>GongYJ_LvUpEsoterica_5</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="NpcFight_FabaoNum" AddV="2"/>
+		</Properties>
+	</Modifier> 
+	<Modifier Name="GongYJ_LvUpEsoterica_6" Type="Normal">
+		<DisplayName>GongYJ_LvUpEsoterica_6</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Properties>
+			<li Name="NpcFight_FabaoPowerAddP" AddP="30"/>
+		</Properties>
+	</Modifier> 
+
+	<Modifier Name="GongYJ_LvUpEsoterica_9" Type="Normal">
+		<DisplayName>GongYJ_LvUpEsoterica_9</DisplayName>
+		<MaxStack>0</MaxStack>
+		<Duration>-1</Duration>
+		<Display>0</Display>
+		<Skills>
+			<li Name="Fabao" LevelOver="30"/>
+		</Skills>
+		<Properties>
+			<li Name="NpcFight_FabaoNum" AddV="1"/>
+
+			<li Name="NpcFight_FabaoPowerAddP" AddP="25"/>
+			<li Name="NpcFight_FabaoLingRecoverAddP" AddP="80"/>
+			<li Name="NpcFight_FabaoMaxLingAddP" AddP="80"/>
+			<li Name="NpcFight_FabaoLingRecoverK" AddV="1.5"/>
+			
+			<li Name="NpcFight_FabaoFlySpeedAddP" AddV="1"/>
+			<li Name="NpcFight_FabaoTurnSpeedAddP" AddV="1"/>
+			<li Name="NpcFight_FabaoTrailingLengthAddP" AddV="1"/>
+			
+			<li Name="NpcFight_FabaoRepelDistanceAddV" AddV="1"/>
+			<li Name="NpcFight_FabaoRepelResistanceAddV" AddP="1"/>
+		</Properties>
+	</Modifier> 
+</List></ModifierDefs>

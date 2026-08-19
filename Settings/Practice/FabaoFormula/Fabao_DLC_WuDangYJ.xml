@@ -1,0 +1,19 @@
+<FabaoFormulas><List>
+	<!-- Vô Trần Kiếm -->
+	<Fabao Name="MiBaoFormula_WuChenJian">
+		<Normal>0</Normal>
+		<ItemName>Item_MiBao_WuChenJian</ItemName>
+		<Level>20</Level>
+		<SuccessRate>-1</SuccessRate>
+		<Count>1</Count>
+	</Fabao>
+
+	<!-- Trấn Yêu Kiếm -->
+	<Fabao Name="MiBaoFormula_ZhenYaoJian">
+		<Normal>0</Normal>
+		<ItemName>Item_MiBao_ZhenYaoJian</ItemName>
+		<Level>20</Level>
+		<SuccessRate>-1</SuccessRate>
+		<Count>1</Count>
+	</Fabao>
+</List></FabaoFormulas>

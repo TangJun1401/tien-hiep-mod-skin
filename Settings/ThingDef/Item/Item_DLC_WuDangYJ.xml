@@ -1,0 +1,79 @@
+<ThingDefs><List>
+
+	<ThingDef Type="Item" Name="Item_MiBao_ZhenYaoJian" Parent="MiBaoBase">
+	<ThingName>Trấn Yêu Kiếm</ThingName>
+	<TexPath>res\Sprs\object_zhengfatianxia\object_PTjian01</TexPath>	
+	<FabaoTexPath>res\Sprs\object_WuDangDLC\object_zhenwudangmoshenjian01</FabaoTexPath>	
+	<Desc>Tổ sư khai sơn Thục Sơn từng cầm kiếm này trảm yêu trừ ma, sáng lập Tiên Kiếm Phái và đặt tên là “Trấn Yêu Kiếm”. Kiếm dài hai thước bảy tấc, thân kiếm được tôi luyện từ ngọc thạch rồi luyện nhập Đãng Ma Chân Pháp, vì thế tỏa ra hạo nhiên chính quang. Khi ngự xuất, kiếm hóa thành lôi đình dài trượng, uy lực phá tan vạn vật.</Desc>
+	<ElementKind>Mu</ElementKind>
+	<Item Kind="Equipment">
+		<PhysicalLables>
+			<li>Sharp</li>
+			<li>GreatThing_Attack</li>
+			<li>GreatThing_Ling</li>
+			<li>GreatThing_Knock</li>
+		</PhysicalLables>
+		<BeMade>
+			<CostItems>
+				<Item name = "Item_ExtremeJade" count = "6"/>
+				<Item name = "Item_JadeEssence" count = "36"/>
+			</CostItems>
+		</BeMade> 
+		<Fabao>
+		    <ActiveCondition>
+			    <Condition eventid = "KillCount" des = "Mang vật này và tiêu diệt 1 Yêu Xà cảnh Nguyên Thần" needcount = "1" lParam = "God" oParam = "JYSnake"/>
+			    <Condition eventid = "KillCount" des = "Mang vật này và tiêu diệt 1 Yêu Lang cảnh Nguyên Thần" needcount = "1" lParam = "God" oParam = "JYWolf"/>
+			    <Condition eventid = "KillCount" des = "Mang vật này và tiêu diệt 1 Yêu Hùng cảnh Nguyên Thần" needcount = "1" lParam = "God" oParam = "JYBear"/>
+			    <Condition eventid = "KillCount" des = "Mang vật này và tiêu diệt 1 Yêu Quy cảnh Nguyên Thần" needcount = "1" lParam = "God" oParam = "JYTurtle"/>
+			    <Condition eventid = "KillCount" des = "Mang vật này và tiêu diệt 1 Yêu Trư cảnh Nguyên Thần" needcount = "1" lParam = "God" oParam = "JYBoar"/>
+			</ActiveCondition>
+			<SpecialAbility>
+			    <Ability Kind="NotRaceDamageUp" sParam1="Human" fParam1="2" Desc="Tấn công dị tộc (không phải Nhân tộc) gây sát thương gấp 3."/>
+			    <Ability Kind="RaceEquipDamageUp" sParam1="Human" fParam1="2" Desc="Nhân tộc trang bị có thể gây sát thương gấp 3."/>
+			</SpecialAbility>
+		</Fabao>
+	</Item>
+	<Element>
+		<Kind>Mu</Kind>
+	</Element>
+	</ThingDef>
+	
+	
+	<ThingDef Type="Item" Name="Item_MiBao_WuChenJian" Parent="MiBaoBase">
+	<ThingName>Vô Trần Kiếm</ThingName>
+	<TexPath>res\Sprs\object_zhengfatianxia\object_PTjian01</TexPath>	
+	<FabaoTexPath>res\Sprs\object_zhengfatianxia\object_MBjian01</FabaoTexPath>
+	<Desc>Thần kiếm do Đạo Môn thượng cổ truyền lại. Luyện ngàn cân ngọc thạch hòa cùng trăm lượng ngọc tủy để ngưng thành Kiếm Thai, rồi mượn sức Thiên Kiếp tôi luyện khiến Kiếm Linh phân hóa. Khi tế xuất, kiếm quang phân thành nhiều đạo, huyền diệu vô cùng.</Desc>
+	<ElementKind>Mu</ElementKind>
+	<Item Kind="Equipment">
+		<PhysicalLables>
+			<li>Sharp</li>
+			<li>GreatThing_Attack</li>
+			<li>GreatThing_Ling</li>
+			<li>GreatThing_Knock</li>
+		</PhysicalLables>
+		<BeMade>
+			<CostItems>
+				<Item name = "Item_Jade" count = "1000"/>
+				<Item name = "Item_JadeEssence" count = "36"/>
+			</CostItems>
+		</BeMade> 
+		<Fabao>
+		    <ActiveCondition>
+			    <Condition eventid = "KillCount" des = "Mang vật này và tiêu diệt 1 Yêu Xà cảnh Nguyên Thần" needcount = "1" lParam = "God" oParam = "JYSnake"/>
+			    <Condition eventid = "KillCount" des = "Mang vật này và tiêu diệt 1 Yêu Lang cảnh Nguyên Thần" needcount = "1" lParam = "God" oParam = "JYWolf"/>
+			    <Condition eventid = "KillCount" des = "Mang vật này và tiêu diệt 1 Yêu Hùng cảnh Nguyên Thần" needcount = "1" lParam = "God" oParam = "JYBear"/>
+			    <Condition eventid = "KillCount" des = "Mang vật này và tiêu diệt 1 Yêu Quy cảnh Nguyên Thần" needcount = "1" lParam = "God" oParam = "JYTurtle"/>
+			    <Condition eventid = "KillCount" des = "Mang vật này và tiêu diệt 1 Yêu Trư cảnh Nguyên Thần" needcount = "1" lParam = "God" oParam = "JYBoar"/>
+			</ActiveCondition>
+			<SpecialAbility>
+			     <Ability Kind="HitCountAddMirror" nParam1="9" nParam2="3" fParam1="9" Desc="Mỗi 9 lần tấn công sẽ phân hóa 3 đạo kiếm quang, kéo dài 9 giây"/>
+			</SpecialAbility>
+		</Fabao>
+	</Item>
+	<Element>
+		<Kind>Tu</Kind>
+	</Element>
+	</ThingDef>
+	
+</List></ThingDefs>

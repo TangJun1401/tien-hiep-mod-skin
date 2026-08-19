@@ -1,0 +1,92 @@
+<Experiences><List>
+	<Experience Name="SYS_LOST">
+		<DisplayName>Thiếu Mod</DisplayName>
+		<Desc>Vật thất lạc, không ai nhận ra thứ này.\n(Thiếu Mod)</Desc>
+		<Point>0</Point>
+		<Hide>1</Hide>
+	</Experience>
+	<!--
+	<Experience Name="E_Item1">
+		<DisplayName>Con Nhà Giàu</DisplayName>
+		<Desc>Trước khi nhập môn, ngươi vốn xuất thân từ gia đình giàu có.</Desc>
+		<Point>1</Point>
+		<NpcSlot>1</NpcSlot>
+		<ModifierDef>
+			<Properties>
+				<li Name="MaxAge" AddV="30"/>
+			</Properties>
+			<Skills>
+				<li Name="Qi" Level="20"/>
+			</Skills>
+		</ModifierDef>
+		<Equips>
+			<li Name= "Item_SysAxe" Stuff="Item_RoughWoodBlock"/>
+		</Equips>
+		<Items>
+			<li Name= "Item_Cake" Count="100"/>
+		</Items>		
+		<Esoterics>
+			<li>Gong1_Esoterica_2</li>
+		</Esoterics>
+	</Experience>
+	-->
+	
+	<Experience Name="ZiYongKaiJu">
+		<DisplayName>Khởi Đầu Cá Nhân</DisplayName>
+		<Desc>Khởi đầu mang theo một số công pháp, bí tịch và nguyên liệu.[/size]</Desc>
+		<Point>5</Point>
+		<RaceKind>Human</RaceKind>
+		<NpcSlot>9</NpcSlot>
+		<Hide>1</Hide>
+		<Items>
+			<li Name= "Item_RoughWoodBlock" Count="200"/>
+			<li Name= "Item_IronBlock" Count="200"/>
+			<li Name= "Item_MarbleBlock" Count="200"/>
+			<li Name= "Item_SilverBlock" Count="40"/>
+			<li Name= "Item_CopperBlock" Count="40"/>
+			<li Name= "Item_Cake" Count="80"/>
+			<li Name= "Item_Jerky" Count="80"/>
+			<li Name= "Item_Dan_NoHunger" Count="20"/>
+			<li Name= "Item_Healroot" Count="40"/>
+			<li Name= "Item_Mint" Count="40"/>
+			<li Name= "Item_MagicHerb" Count="100"/>
+			<li Name= "Item_RedGinseng" Count="10"/>
+			<li Name= "Item_PurpleGanodermaLucidum" Count="10"/>
+			<li Name= "Item_Jade" Count="20"/>
+			<li Name= "Item_HardWood" Count="20"/>
+			<li Name= "Item_CopperRock" Count="20"/>
+			<li Name= "Item_SilverRock" Count="20"/>
+			<li Name= "Item_DarksteelRock" Count="10"/>
+			<li Name= "Item_JadeEssence" Count="1"/>
+		</Items>	
+		<Esoterics>
+			<li>Esoterica_LunHui1</li>
+			<li>SpellEsoterica_5</li>
+			<li>DanFang_1</li>
+			<li>Esoterica_LunHui4</li>
+		</Esoterics>	
+		<Gongs>
+			<li>Gong_7_Huo</li>
+			<li>Gong_1_Shui</li>
+			<li>Gong_12_None</li>
+			<li>Body_Gong_3</li>
+			<li>Gong_YJ_None</li>
+		</Gongs>
+	</Experience>
+
+	<Experience Name="XuanShiSan">
+		<DisplayName>Huyền Thập Tam</DisplayName>
+		<Desc>Khởi đầu mang theo công pháp và bí tịch.[/size]</Desc>
+		<Point>6</Point>
+		<RaceKind>Human</RaceKind>
+		<Hide>1</Hide>
+		<Esoterics>
+			<li>SpellEsoterica_5</li>
+			<li>DanFang_1</li>
+		</Esoterics>	
+		<Gongs>
+			<li>Gong_YJ_None</li>
+		</Gongs>
+	</Experience>
+
+</List></Experiences>
