@@ -2,8 +2,8 @@
 
 	<ThingDef Type="Item" Name="Item_MiBao_ZhenYaoJian" Parent="MiBaoBase">
 	<ThingName>Trấn Yêu Kiếm</ThingName>
-	<TexPath>res\Sprs\object_zhengfatianxia\object_PTjian01</TexPath>	
-	<FabaoTexPath>res\Sprs\object_WuDangDLC\object_zhenwudangmoshenjian01</FabaoTexPath>	
+	<TexPath>res/Sprs/object_zhengfatianxia/object_PTjian01</TexPath>	
+	<FabaoTexPath>res/Sprs/object_WuDangDLC/object_zhenwudangmoshenjian01</FabaoTexPath>	
 	<Desc>Tổ sư khai sơn Thục Sơn từng cầm kiếm này trảm yêu trừ ma, sáng lập Tiên Kiếm Phái và đặt tên là “Trấn Yêu Kiếm”. Kiếm dài hai thước bảy tấc, thân kiếm được tôi luyện từ ngọc thạch rồi luyện nhập Đãng Ma Chân Pháp, vì thế tỏa ra hạo nhiên chính quang. Khi ngự xuất, kiếm hóa thành lôi đình dài trượng, uy lực phá tan vạn vật.</Desc>
 	<ElementKind>Mu</ElementKind>
 	<Item Kind="Equipment">
@@ -41,8 +41,8 @@
 	
 	<ThingDef Type="Item" Name="Item_MiBao_WuChenJian" Parent="MiBaoBase">
 	<ThingName>Vô Trần Kiếm</ThingName>
-	<TexPath>res\Sprs\object_zhengfatianxia\object_PTjian01</TexPath>	
-	<FabaoTexPath>res\Sprs\object_zhengfatianxia\object_MBjian01</FabaoTexPath>
+	<TexPath>res/Sprs/object_zhengfatianxia/object_PTjian01</TexPath>	
+	<FabaoTexPath>res/Sprs/object_zhengfatianxia/object_MBjian01</FabaoTexPath>
 	<Desc>Thần kiếm do Đạo Môn thượng cổ truyền lại. Luyện ngàn cân ngọc thạch hòa cùng trăm lượng ngọc tủy để ngưng thành Kiếm Thai, rồi mượn sức Thiên Kiếp tôi luyện khiến Kiếm Linh phân hóa. Khi tế xuất, kiếm quang phân thành nhiều đạo, huyền diệu vô cùng.</Desc>
 	<ElementKind>Mu</ElementKind>
 	<Item Kind="Equipment">
