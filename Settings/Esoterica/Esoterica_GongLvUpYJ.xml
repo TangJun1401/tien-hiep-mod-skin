@@ -1,140 +1,140 @@
 <Esotericas><List>
 
 	<Esoterica Name="GongYJ_LvUpEsoterica_1">
-		<DisplayName>Kiếm Ý</DisplayName>
+		<DisplayName>Kiếm Ý</DisplayName>
 		<Hide>2</Hide>
 		<Icon>res/Sprs/ui/icon_yujian</Icon>
 		<StarLevel>0</StarLevel>
 		<Difficulty>6</Difficulty>
-		<Desc>Pháp nhập môn của Ngự Kiếm Phục Ma Quyết, cô đọng Kiếm Ý thuần túy, từ căn bản tăng uy lực pháp bảo.</Desc>
+		<Desc>Pháp nhập môn của Ngự Kiếm Phục Ma Quyết, cô đọng Kiếm Ý thuần túy, từ căn bản tăng uy lực pháp bảo.</Desc>
 		<GLevel>Dan1</GLevel>
 		<Element>None</Element>
 		<Type>Fabao</Type>
-		<EffectDesc>[size=10][color=#D06508]Tăng Tâm Cảnh\nTăng căn bản uy lực pháp bảo[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508]Tăng Tâm Cảnh\nTăng căn bản uy lực pháp bảo[/color][/size]</EffectDesc>
 		<Modifier>GongYJ_LvUpEsoterica_1</Modifier>	
 	</Esoterica>
 	
 	<Esoterica Name="GongYJ_LvUpEsoterica_2">
-		<DisplayName>Kiếm Ý</DisplayName>
+		<DisplayName>Kiếm Ý</DisplayName>
 		<Hide>2</Hide>
 		<Icon>res/Sprs/ui/icon_yujian</Icon>
 		<StarLevel>0</StarLevel>
 		<Difficulty>9</Difficulty>
-		<Desc>Pháp nhập môn của Ngự Kiếm Phục Ma Quyết, cô đọng Kiếm Ý thuần túy, từ căn bản tăng uy lực pháp bảo.</Desc>
+		<Desc>Pháp nhập môn của Ngự Kiếm Phục Ma Quyết, cô đọng Kiếm Ý thuần túy, từ căn bản tăng uy lực pháp bảo.</Desc>
 		<GLevel>Dan2</GLevel>
 		<Element>None</Element>
 		<Type>Fabao</Type>
-		<EffectDesc>[size=10][color=#D06508]Tăng Tâm Cảnh\nTăng căn bản uy lực pháp bảo[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508]Tăng Tâm Cảnh\nTăng căn bản uy lực pháp bảo[/color][/size]</EffectDesc>
 		<Modifier>GongYJ_LvUpEsoterica_1</Modifier>	
 	</Esoterica>
 	
 	<Esoterica Name="GongYJ_LvUpEsoterica_3">
-		<DisplayName>Ngự Kiếm Thuật</DisplayName>
+		<DisplayName>Ngự Kiếm Thuật</DisplayName>
 		<Hide>2</Hide>
 		<Icon>res/Sprs/ui/icon_yujian</Icon>
 		<StarLevel>0</StarLevel>
 		<Difficulty>3</Difficulty>
-		<Desc>Thuật Ngự Khí nhập môn ghi trong Ngự Kiếm Phục Ma Quyết; vận dụng theo pháp này giúp khí mạch dài lâu.</Desc>
+		<Desc>Thuật Ngự Khí nhập môn ghi trong Ngự Kiếm Phục Ma Quyết; vận dụng theo pháp này giúp khí mạch dài lâu.</Desc>
 		<GLevel>Qi</GLevel>
 		<Element>None</Element>
 		<Type>Fabao</Type>
-		<EffectDesc>[size=10][color=#D06508]Tăng hệ số hồi Linh Khí của pháp bảo[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508]Tăng hệ số hồi Linh Khí của pháp bảo[/color][/size]</EffectDesc>
 		<Modifier>GongYJ_LvUpEsoterica_3</Modifier>	
 	</Esoterica>
 	<Esoterica Name="GongYJ_LvUpEsoterica_4">
-		<DisplayName>Ngự Kiếm Thuật</DisplayName>
+		<DisplayName>Ngự Kiếm Thuật</DisplayName>
 		<Hide>2</Hide>
 		<Icon>res/Sprs/ui/icon_yujian</Icon>
 		<StarLevel>0</StarLevel>
 		<Difficulty>3</Difficulty>
-		<Desc>Thuật Ngự Khí nhập môn ghi trong Ngự Kiếm Phục Ma Quyết; vận dụng theo pháp này giúp khí mạch dài lâu.</Desc>
+		<Desc>Thuật Ngự Khí nhập môn ghi trong Ngự Kiếm Phục Ma Quyết; vận dụng theo pháp này giúp khí mạch dài lâu.</Desc>
 		<GLevel>Qi</GLevel>
 		<Element>None</Element>
 		<Type>Fabao</Type>
-		<EffectDesc>[size=10][color=#D06508]Tăng hệ số hồi Linh Khí của pháp bảo[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508]Tăng hệ số hồi Linh Khí của pháp bảo[/color][/size]</EffectDesc>
 		<Modifier>GongYJ_LvUpEsoterica_3</Modifier>	
 	</Esoterica>
 	
 	<Esoterica Name="GongYJ_LvUpEsoterica_5">
-		<DisplayName>Kiếm Linh</DisplayName>
+		<DisplayName>Kiếm Linh</DisplayName>
 		<Hide>2</Hide>
 		<Icon>res/Sprs/ui/icon_yujian</Icon>
 		<StarLevel>2</StarLevel>
 		<Difficulty>8</Difficulty>
-		<Desc>Dùng Phục Ma Kiếm Ý ngưng tụ Kiếm Linh, tăng số lượng pháp bảo có thể điều khiển; đồng thời lấy đó làm dẫn, phân hóa thêm một Phân Thần Nguyên Thần.</Desc>
+		<Desc>Dùng Phục Ma Kiếm Ý ngưng tụ Kiếm Linh, tăng số lượng pháp bảo có thể điều khiển; đồng thời lấy đó làm dẫn, phân hóa thêm một Phân Thần Nguyên Thần.</Desc>
 		<GLevel>God</GLevel>
 		<Element>None</Element>
 		<Type>None</Type>
 		<GodSoulCount>1</GodSoulCount>
-		<EffectDesc>[size=10][color=#D06508]Số lượng pháp bảo +2\nTăng thêm một Phân Thần Nguyên Thần[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508]Số lượng pháp bảo +2\nTăng thêm một Phân Thần Nguyên Thần[/color][/size]</EffectDesc>
 		<Modifier>GongYJ_LvUpEsoterica_5</Modifier>
 	</Esoterica>
 	<Esoterica Name="GongYJ_LvUpEsoterica_6">
-		<DisplayName>Cực Kiếm · Nhị</DisplayName>
+		<DisplayName>Cực Kiếm · Nhị</DisplayName>
 		<Hide>2</Hide>
 		<Icon>res/Sprs/ui/icon_yujian</Icon>
 		<StarLevel>2</StarLevel>
 		<Difficulty>9</Difficulty>
-		<Desc>Lấy hai kiếm làm duy nhất, ngoài kiếm không còn vật khác; pháp này tăng mạnh uy lực pháp bảo.</Desc>
+		<Desc>Lấy hai kiếm làm duy nhất, ngoài kiếm không còn vật khác; pháp này tăng mạnh uy lực pháp bảo.</Desc>
 		<GLevel>God</GLevel>
 		<Element>None</Element>
 		<Type>Fabao</Type>
-		<EffectDesc>[size=10][color=#D06508]Tăng mạnh uy lực pháp bảo[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508]Tăng mạnh uy lực pháp bảo[/color][/size]</EffectDesc>
 		<Modifier>GongYJ_LvUpEsoterica_6</Modifier>	
 	</Esoterica>
 	
 	<Esoterica Name="GongYJ_LvUpEsoterica_7">
-		<DisplayName>Ngã Kiếm · Nhị</DisplayName>
+		<DisplayName>Ngã Kiếm · Nhị</DisplayName>
 		<Hide>2</Hide>
 		<Icon>res/Sprs/ui/icon_yujian</Icon>
 		<StarLevel>2</StarLevel>
 		<Difficulty>9</Difficulty>
-		<Desc>Bí quyết kiếm pháp tuyệt thế lấy Nguyên Thần hợp kiếm, tăng mạnh uy lực pháp bảo.</Desc>
+		<Desc>Bí quyết kiếm pháp tuyệt thế lấy Nguyên Thần hợp kiếm, tăng mạnh uy lực pháp bảo.</Desc>
 		<GLevel>God</GLevel>
 		<Element>None</Element>
 		<Type>Fabao</Type>
-		<EffectDesc>[size=10][color=#D06508]Tăng mạnh uy lực pháp bảo[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508]Tăng mạnh uy lực pháp bảo[/color][/size]</EffectDesc>
 		<Modifier>GongYJ_LvUpEsoterica_6</Modifier>	
 	</Esoterica>
 	
 	<Esoterica Name="GongYJ_LvUpEsoterica_8">
-		<DisplayName>Cực Kiếm · Tam</DisplayName>
+		<DisplayName>Cực Kiếm · Tam</DisplayName>
 		<Hide>2</Hide>
 		<Icon>res/Sprs/ui/icon_yujian</Icon>
 		<StarLevel>2</StarLevel>
 		<Difficulty>9</Difficulty>
-		<Desc>Lấy hai kiếm làm duy nhất, ngoài kiếm không còn vật khác; tu đến cực hạn có thể tăng số lượng pháp bảo điều khiển.</Desc>
+		<Desc>Lấy hai kiếm làm duy nhất, ngoài kiếm không còn vật khác; tu đến cực hạn có thể tăng số lượng pháp bảo điều khiển.</Desc>
 		<GLevel>God</GLevel>
 		<Element>None</Element>
 		<Type>Fabao</Type>
-		<EffectDesc>[size=10][color=#D06508]Lĩnh ngộ chân ý Ngự Kiếm, kỹ năng Ngự Khí phá giới hạn cấp 30.\nSố lượng pháp bảo +1\nTăng cực mạnh uy lực pháp bảo\nTăng cực mạnh tốc độ hồi Linh Khí của pháp bảo\nTăng cực mạnh Linh Khí pháp bảo\nTăng cực mạnh tốc độ bay pháp bảo\nTăng cực mạnh tốc độ chuyển hướng pháp bảo\nTăng cực mạnh khả năng đánh lui của pháp bảo\nTăng cực mạnh khả năng kháng đánh lui của pháp bảo\nTăng cực mạnh độ dài vệt sáng pháp bảo[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508]Lĩnh ngộ chân ý Ngự Kiếm, kỹ năng Ngự Khí phá giới hạn cấp 30.\nSố lượng pháp bảo +1\nTăng cực mạnh uy lực pháp bảo\nTăng cực mạnh tốc độ hồi Linh Khí của pháp bảo\nTăng cực mạnh Linh Khí pháp bảo\nTăng cực mạnh tốc độ bay pháp bảo\nTăng cực mạnh tốc độ chuyển hướng pháp bảo\nTăng cực mạnh khả năng đánh lui của pháp bảo\nTăng cực mạnh khả năng kháng đánh lui của pháp bảo\nTăng cực mạnh độ dài vệt sáng pháp bảo[/color][/size]</EffectDesc>
 		<Modifier>GongYJ_LvUpEsoterica_9</Modifier>	
 	</Esoterica>
 	
 	<Esoterica Name="GongYJ_LvUpEsoterica_9">
-		<DisplayName>Ngã Kiếm · Tam</DisplayName>
+		<DisplayName>Ngã Kiếm · Tam</DisplayName>
 		<Hide>2</Hide>
 		<Icon>res/Sprs/ui/icon_yujian</Icon>
 		<StarLevel>2</StarLevel>
 		<Difficulty>9</Difficulty>
-		<Desc>Bí quyết kiếm pháp tuyệt thế lấy Nguyên Thần hợp kiếm; tu đến cực hạn có thể tăng số lượng pháp bảo điều khiển.</Desc>
+		<Desc>Bí quyết kiếm pháp tuyệt thế lấy Nguyên Thần hợp kiếm; tu đến cực hạn có thể tăng số lượng pháp bảo điều khiển.</Desc>
 		<GLevel>God</GLevel>
 		<Element>None</Element>
 		<Type>Fabao</Type>
-		<EffectDesc>[size=10][color=#D06508]Lĩnh ngộ chân ý Ngự Kiếm, kỹ năng Ngự Khí phá giới hạn cấp 30.\nSố lượng pháp bảo +1\nTăng cực mạnh uy lực pháp bảo\nTăng cực mạnh tốc độ hồi Linh Khí của pháp bảo\nTăng cực mạnh Linh Khí pháp bảo\nTăng cực mạnh tốc độ bay pháp bảo\nTăng cực mạnh tốc độ chuyển hướng pháp bảo\nTăng cực mạnh khả năng đánh lui của pháp bảo\nTăng cực mạnh khả năng kháng đánh lui của pháp bảo\nTăng cực mạnh độ dài vệt sáng pháp bảo[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508]Lĩnh ngộ chân ý Ngự Kiếm, kỹ năng Ngự Khí phá giới hạn cấp 30.\nSố lượng pháp bảo +1\nTăng cực mạnh uy lực pháp bảo\nTăng cực mạnh tốc độ hồi Linh Khí của pháp bảo\nTăng cực mạnh Linh Khí pháp bảo\nTăng cực mạnh tốc độ bay pháp bảo\nTăng cực mạnh tốc độ chuyển hướng pháp bảo\nTăng cực mạnh khả năng đánh lui của pháp bảo\nTăng cực mạnh khả năng kháng đánh lui của pháp bảo\nTăng cực mạnh độ dài vệt sáng pháp bảo[/color][/size]</EffectDesc>
 		<Modifier>GongYJ_LvUpEsoterica_9</Modifier>	
 	</Esoterica>
 	
 	
 	<Esoterica Name="GongYJ_LvUpEsoterica_10">
-		<DisplayName>Bí Bảo: Vô Trần Kiếm, Trấn Yêu Kiếm</DisplayName>
+		<DisplayName>Bí Bảo: Vô Trần Kiếm, Trấn Yêu Kiếm</DisplayName>
 		<Hide>2</Hide>
 		<StarLevel>1</StarLevel>
 		<Difficulty>4</Difficulty>
-		<Desc>Ghi chép phương pháp luyện chế hai bí bảo Vô Trần Kiếm và Trấn Yêu Kiếm.</Desc>
+		<Desc>Ghi chép phương pháp luyện chế hai bí bảo Vô Trần Kiếm và Trấn Yêu Kiếm.</Desc>
 		<Element>None</Element>
 		<Type>None</Type>
-		<EffectDesc>[size=10][color=#D06508]Học được Bí Bảo:\nVô Trần Kiếm, Trấn Yêu Kiếm[/color][/size]</EffectDesc>
+		<EffectDesc>[size=10][color=#D06508]Học được Bí Bảo:\nVô Trần Kiếm, Trấn Yêu Kiếm[/color][/size]</EffectDesc>
 		<Fabaos>
 			<li>MiBaoFormula_WuChenJian</li>
 			<li>MiBaoFormula_ZhenYaoJian</li>

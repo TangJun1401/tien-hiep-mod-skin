@@ -1,8 +1,8 @@
 <FeatureDefs><List>
 	<!--
 	<Feature Name="N1" Type="Normal">
-		<DisplayName>Mẫu</DisplayName>
-		<Desc>Mẫu</Desc>
+		<DisplayName>Mẫu</DisplayName>
+		<Desc>Mẫu</Desc>
 		<HideInUI>1</HideInUI>
 		<Mutex>
 				<li>CrippleLeft</li>
@@ -11,14 +11,14 @@
 		<BanRelations>
 				<li>Parent</li>
 		</BanRelations>
-		<Opposition> Đặc tính đối lập
+		<Opposition> Đặc tính đối lập
 			<li>StinkAllOver</li>
 			<li>Slovenly</li>
 		</Opposition>
-		<Close>Đặc tính thân cận
+		<Close>Đặc tính thân cận
 			<li>Cleanliness</li>
 		</Close>
-		<MoodBranch> Nhánh tâm trạng
+		<MoodBranch> Nhánh tâm trạng
 			<li Old="BedroomExpect8" New="BedroomExpect6"/>
 		</MoodBranch>
 		<ModifierDef>
@@ -55,8 +55,8 @@
 	-->
 	
 	<Feature Name="BaiFa" Type="Backstory">
-		<DisplayName>Vô Trần</DisplayName>
-		<Desc>Mắt tựa thu thủy, kiếm như lưu tinh; lấy thơ làm cốt, lấy ngọc làm thần. Bạch y phiêu dật giữa tầng mây, vì ai mà xem nhẹ cả sinh tử.</Desc>
+		<DisplayName>Vô Trần</DisplayName>
+		<Desc>Mắt tựa thu thủy, kiếm như lưu tinh; lấy thơ làm cốt, lấy ngọc làm thần. Bạch y phiêu dật giữa tầng mây, vì ai mà xem nhẹ cả sinh tử.</Desc>
 		<HideInUI>-1</HideInUI>
 		<ModifierDef>
 			<SpecialFlags>
@@ -76,8 +76,8 @@
 	</Feature>
 		
 	<Feature Name="LianBaoShi" Type="Backstory">
-		<DisplayName>Luyện Khí</DisplayName>
-		<Desc>Người này có thiên tư tuyệt thế trên con đường Luyện Khí.</Desc>
+		<DisplayName>Luyện Khí</DisplayName>
+		<Desc>Người này có thiên tư tuyệt thế trên con đường Luyện Khí.</Desc>
 		<HideInUI>-1</HideInUI>
 		<ModifierDef>
 			<Skills>
@@ -96,8 +96,8 @@
 	</Feature>
 		
 	<Feature Name="LianDanShi" Type="Backstory">
-		<DisplayName>Luyện Đan</DisplayName>
-		<Desc>Người này có thiên tư tuyệt thế trên con đường Luyện Đan.</Desc>
+		<DisplayName>Luyện Đan</DisplayName>
+		<Desc>Người này có thiên tư tuyệt thế trên con đường Luyện Đan.</Desc>
 		<HideInUI>-1</HideInUI>
 		<ModifierDef>
 			<Skills>
@@ -114,8 +114,8 @@
 	</Feature>
 			
 	<Feature Name="HuaFuShi" Type="Backstory">
-		<DisplayName>Vẽ Phù</DisplayName>
-		<Desc>Người này có thiên tư tuyệt thế về Phù Đạo.</Desc>
+		<DisplayName>Vẽ Phù</DisplayName>
+		<Desc>Người này có thiên tư tuyệt thế về Phù Đạo.</Desc>
 		<HideInUI>-1</HideInUI>
 		<ModifierDef>
 			<Skills>
@@ -125,8 +125,8 @@
 	</Feature>
 
 	<Feature Name="XianTai" Type="Backstory">
-		<DisplayName>Tiên Thai</DisplayName>
-		<Desc>Trường thọ, gần như bất tử.</Desc>
+		<DisplayName>Tiên Thai</DisplayName>
+		<Desc>Trường thọ, gần như bất tử.</Desc>
 		<HideInUI>-1</HideInUI>
 		<ModifierDef>
 			<Properties>

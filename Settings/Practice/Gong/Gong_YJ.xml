@@ -1,8 +1,8 @@
 <Gongs><List>
-	<Gong Name="Gong_YJ_None">  <!--Kiếm pháp mạnh  Hộ thuẫn yếu  Linh khí ít  Hồi linh nhanh-->
-		<DisplayName>Ngự Kiếm Phục Ma Quyết</DisplayName>
-		<Desc>Tương truyền đây là bí pháp chuyên tu kiếm thuật lưu truyền từ Tiên Giới. Công pháp có chín tầng cảnh giới, nhập môn khó, tiến cảnh càng khó. Người tu có chiến lực cực kỳ kinh người, nhưng vì sát ý quá nặng nên phải trải qua ba tầng Lôi Kiếp, hung hiểm vô cùng. Đây là một môn sát phạt chi thuật chân chính.</Desc>
-		<SelectDesc>Công pháp này sở trường Ngự Khí, chiến lực kinh người, nhưng sát kiếp quá nặng nên phải trải qua nhiều tầng Thiên Kiếp. Có chọn tu luyện công pháp này không?</SelectDesc>
+	<Gong Name="Gong_YJ_None">  <!--Kiếm pháp mạnh  Hộ thuẫn yếu  Linh khí ít  Hồi linh nhanh-->
+		<DisplayName>Ngự Kiếm Phục Ma Quyết</DisplayName>
+		<Desc>Tương truyền đây là bí pháp chuyên tu kiếm thuật lưu truyền từ Tiên Giới. Công pháp có chín tầng cảnh giới, nhập môn khó, tiến cảnh càng khó. Người tu có chiến lực cực kỳ kinh người, nhưng vì sát ý quá nặng nên phải trải qua ba tầng Lôi Kiếp, hung hiểm vô cùng. Đây là một môn sát phạt chi thuật chân chính.</Desc>
+		<SelectDesc>Công pháp này sở trường Ngự Khí, chiến lực kinh người, nhưng sát kiếp quá nặng nên phải trải qua nhiều tầng Thiên Kiếp. Có chọn tu luyện công pháp này không?</SelectDesc>
 		<FiveBaseNeed>9,9,9,9,9</FiveBaseNeed>
 		<SkillSetName></SkillSetName>
 		<ElementKind>None</ElementKind>
@@ -13,13 +13,13 @@
 		</Skill>
 		<Stages>
 			<Stage Name="Stage1" Level="1">
-				<DisplayName>Kiếm Tâm</DisplayName>
-				<Desc>Lấy tâm chứng kiếm, tìm kiếm Kiếm Đạo thuộc về chính mình.</Desc>
+				<DisplayName>Kiếm Tâm</DisplayName>
+				<Desc>Lấy tâm chứng kiếm, tìm kiếm Kiếm Đạo thuộc về chính mình.</Desc>
 				<Value>6000</Value>
 				<Necks>
 					<Neck Location="1" Kind="Chance">
-						<DisplayName>Kiếm Tâm</DisplayName>
-						<Desc>Lấy tâm chứng kiếm, tìm kiếm Kiếm Đạo thuộc về chính mình.Một khi thất bại sẽ phải bắt đầu lại từ đầu.[color=#D06508]\nBình cảnh này cần thử nhiều lần mới có thể từng bước đột phá.\nThần Thức càng thấp thì bình cảnh này càng khó đột phá.\nĐột phá thất bại có thể bị thương.[/color]</Desc>
+						<DisplayName>Kiếm Tâm</DisplayName>
+						<Desc>Lấy tâm chứng kiếm, tìm kiếm Kiếm Đạo thuộc về chính mình.Một khi thất bại sẽ phải bắt đầu lại từ đầu.[color=#D06508]\nBình cảnh này cần thử nhiều lần mới có thể từng bước đột phá.\nThần Thức càng thấp thì bình cảnh này càng khó đột phá.\nĐột phá thất bại có thể bị thương.[/color]</Desc>
 						<CostTime>200</CostTime>
 						<SuccessChange>Perception_1_1_3</SuccessChange>
 						<FailedChangeAdd>Perception_1_1_10</FailedChangeAdd>
@@ -35,13 +35,13 @@
 			</Stage>
 
 			<Stage Name="Stage2" Level="2">
-				<DisplayName>Kiếm Thể</DisplayName>
-				<Desc>Luyện hóa tinh huyết, đúc thành Kiếm Thể, dùng đại nghị lực phá bỏ gông xiềng.</Desc>
+				<DisplayName>Kiếm Thể</DisplayName>
+				<Desc>Luyện hóa tinh huyết, đúc thành Kiếm Thể, dùng đại nghị lực phá bỏ gông xiềng.</Desc>
 				<Value>6000</Value>
 				<Necks>
 					<Neck Location="1" Kind="Chance">
-						<DisplayName>Kiếm Thể</DisplayName>
-						<Desc>Luyện hóa tinh huyết, đúc thành Kiếm Thể, dùng đại nghị lực phá bỏ gông xiềng.Một khi thất bại sẽ phải bắt đầu lại từ đầu.[color=#D06508]\nBình cảnh này cần thử nhiều lần mới có thể từng bước đột phá.\nThần Thức càng thấp thì bình cảnh này càng khó đột phá.\nĐột phá thất bại có thể bị thương.[/color]</Desc>
+						<DisplayName>Kiếm Thể</DisplayName>
+						<Desc>Luyện hóa tinh huyết, đúc thành Kiếm Thể, dùng đại nghị lực phá bỏ gông xiềng.Một khi thất bại sẽ phải bắt đầu lại từ đầu.[color=#D06508]\nBình cảnh này cần thử nhiều lần mới có thể từng bước đột phá.\nThần Thức càng thấp thì bình cảnh này càng khó đột phá.\nĐột phá thất bại có thể bị thương.[/color]</Desc>
 						<CostTime>200</CostTime>
 						<SuccessChange>Perception_1_1_3</SuccessChange>
 						<FailedChangeAdd>Perception_1_1_10</FailedChangeAdd>
@@ -57,13 +57,13 @@
 			</Stage>
 
 			<Stage Name="Stage3" Level="3">
-				<DisplayName>Kiếm Khí</DisplayName>
-				<Desc>Ngưng tụ Thần Thức hóa thành Kiếm Khí, dùng đại quyết tâm chém mở huyền quan.</Desc>
+				<DisplayName>Kiếm Khí</DisplayName>
+				<Desc>Ngưng tụ Thần Thức hóa thành Kiếm Khí, dùng đại quyết tâm chém mở huyền quan.</Desc>
 				<Value>6000</Value>
 				<Necks>
 					<Neck Location="1" Kind="Chance">
-						<DisplayName>Kiếm Khí</DisplayName>
-						<Desc>Ngưng tụ Thần Thức hóa thành Kiếm Khí, dùng đại quyết tâm chém mở huyền quan.Một khi thất bại sẽ phải bắt đầu lại từ đầu.[color=#D06508]\nBình cảnh này cần thử nhiều lần mới có thể từng bước đột phá.\nThần Thức càng thấp thì bình cảnh này càng khó đột phá.\nĐột phá thất bại có thể bị thương.[/color]</Desc>
+						<DisplayName>Kiếm Khí</DisplayName>
+						<Desc>Ngưng tụ Thần Thức hóa thành Kiếm Khí, dùng đại quyết tâm chém mở huyền quan.Một khi thất bại sẽ phải bắt đầu lại từ đầu.[color=#D06508]\nBình cảnh này cần thử nhiều lần mới có thể từng bước đột phá.\nThần Thức càng thấp thì bình cảnh này càng khó đột phá.\nĐột phá thất bại có thể bị thương.[/color]</Desc>
 						<CostTime>200</CostTime>
 						<SuccessChange>Perception_1_1_3</SuccessChange>
 						<FailedChangeAdd>Perception_1_1_10</FailedChangeAdd>
@@ -79,13 +79,13 @@
 			</Stage>
 
 			<Stage Name="Stage4" Level="5">
-				<DisplayName>Ngộ Kiếm</DisplayName>
-				<Desc>Cảm ngộ Kiếm Tâm, Kiếm Thể và Kiếm Khí, lấy kiếm nhập Đạo.</Desc>
+				<DisplayName>Ngộ Kiếm</DisplayName>
+				<Desc>Cảm ngộ Kiếm Tâm, Kiếm Thể và Kiếm Khí, lấy kiếm nhập Đạo.</Desc>
 				<Value>18000</Value>
 				<Necks>
 					<Neck Location="1" Kind="Chance">
-						<DisplayName>Ngộ Kiếm</DisplayName>
-						<Desc>Cảm ngộ Kiếm Tâm, Kiếm Thể và Kiếm Khí, lấy kiếm nhập Đạo.Một khi thất bại sẽ phải bắt đầu lại từ đầu.[color=#D06508]\nBình cảnh này cần thử nhiều lần mới có thể từng bước đột phá.\nThần Thức càng thấp thì bình cảnh này càng khó đột phá.\nĐột phá thất bại có thể bị thương.[/color]</Desc>
+						<DisplayName>Ngộ Kiếm</DisplayName>
+						<Desc>Cảm ngộ Kiếm Tâm, Kiếm Thể và Kiếm Khí, lấy kiếm nhập Đạo.Một khi thất bại sẽ phải bắt đầu lại từ đầu.[color=#D06508]\nBình cảnh này cần thử nhiều lần mới có thể từng bước đột phá.\nThần Thức càng thấp thì bình cảnh này càng khó đột phá.\nĐột phá thất bại có thể bị thương.[/color]</Desc>
 						<CostTime>600</CostTime>
 						<SuccessChange>Perception_1_1_3</SuccessChange>
 						<FailedChangeAdd>Perception_1_1_10</FailedChangeAdd>
@@ -101,13 +101,13 @@
 			</Stage>
 
 			<Stage Name="Stage5" Level="6">
-				<DisplayName>Kiếm Đan</DisplayName>
-				<Desc>Tâm, thần và khí ngưng kết thành một viên Kiếm Đan, tựa Kim Đan Đạo gia, hỗn nguyên như nhất.</Desc>
+				<DisplayName>Kiếm Đan</DisplayName>
+				<Desc>Tâm, thần và khí ngưng kết thành một viên Kiếm Đan, tựa Kim Đan Đạo gia, hỗn nguyên như nhất.</Desc>
 				<Value>36000</Value>
 				<Necks>
 					<Neck Location="1" Kind="Gold">
-						<DisplayName>Kiếm Đan</DisplayName>
-						<Desc>Tâm, thể và khí ngưng kết thành một viên Kiếm Đan, tựa Kim Đan Đạo gia, hỗn nguyên như nhất.</Desc>
+						<DisplayName>Kiếm Đan</DisplayName>
+						<Desc>Tâm, thể và khí ngưng kết thành một viên Kiếm Đan, tựa Kim Đan Đạo gia, hỗn nguyên như nhất.</Desc>
 						<CostTime>1200</CostTime>
 						<ItemCost>
 							<Item name="Item_Dan_SwordBall"/>
@@ -118,13 +118,13 @@
 			</Stage>	
 
 			<Stage Name="Stage6" Level="7">
-				<DisplayName>Kiếm Ý</DisplayName>
-				<Desc>Kiếm Đan vừa thành, thần lôi từ trời giáng xuống; mượn lôi kiếp ngưng tụ ý chí của kiếm.</Desc>
+				<DisplayName>Kiếm Ý</DisplayName>
+				<Desc>Kiếm Đan vừa thành, thần lôi từ trời giáng xuống; mượn lôi kiếp ngưng tụ ý chí của kiếm.</Desc>
 				<Value>1250000</Value>
 				<Necks>
 					<Neck Location="1" Kind="Thunder">
-						<DisplayName>Kiếm Ý</DisplayName>
-						<Desc>Kiếm Hoàn vừa thành, thần lôi từ trời giáng xuống; mượn lôi kiếp ngưng tụ ý chí của kiếm.</Desc>
+						<DisplayName>Kiếm Ý</DisplayName>
+						<Desc>Kiếm Hoàn vừa thành, thần lôi từ trời giáng xuống; mượn lôi kiếp ngưng tụ ý chí của kiếm.</Desc>
 						<NeckCountdown>3000</NeckCountdown>
 						<ThunderValue>125000</ThunderValue>
 						<AddModifier>GongYJ_Thunder1</AddModifier>
@@ -133,13 +133,13 @@
 			</Stage>
 
 			<Stage Name="Stage7" Level="9">
-				<DisplayName>Kiếm Thai</DisplayName>
-				<Desc>Dùng Thiên Kiếp tôi luyện, phản phác quy chân, từ Kiếm Hoàn thai nghén Kiếm Thai.</Desc>
+				<DisplayName>Kiếm Thai</DisplayName>
+				<Desc>Dùng Thiên Kiếp tôi luyện, phản phác quy chân, từ Kiếm Hoàn thai nghén Kiếm Thai.</Desc>
 				<Value>2500000</Value>
 				<Necks>
 					<Neck Location="1" Kind="Thunder">
-						<DisplayName>Kiếm Thai</DisplayName>
-						<Desc>Dùng Thiên Kiếp tôi luyện, phản phác quy chân, từ Kiếm Hoàn thai nghén Kiếm Thai.</Desc>
+						<DisplayName>Kiếm Thai</DisplayName>
+						<Desc>Dùng Thiên Kiếp tôi luyện, phản phác quy chân, từ Kiếm Hoàn thai nghén Kiếm Thai.</Desc>
 						<NeckCountdown>6000</NeckCountdown>
 						<ThunderValue>250000</ThunderValue>
 						<AddModifier>GongYJ_Thunder2</AddModifier>
@@ -148,13 +148,13 @@
 			</Stage>
 
 			<Stage Name="Stage8" Level="11">
-				<DisplayName>Kiếm Hồn</DisplayName>
-				<Desc>Dùng Kiếm Ý đoạt lấy Thiên Đạo hủy diệt trong Lôi Kiếp để bước vào cảnh giới Kiếm Tiên. Một khi thành công, thiên ý nổi giận, sẽ trực diện Thiên Kiếp cuối cùng.</Desc>
+				<DisplayName>Kiếm Hồn</DisplayName>
+				<Desc>Dùng Kiếm Ý đoạt lấy Thiên Đạo hủy diệt trong Lôi Kiếp để bước vào cảnh giới Kiếm Tiên. Một khi thành công, thiên ý nổi giận, sẽ trực diện Thiên Kiếp cuối cùng.</Desc>
 				<Value>5000000</Value>
 				<Necks>
 					<Neck Location="1" Kind="Thunder">
-						<DisplayName>Kiếm Hồn</DisplayName>
-						<Desc>Dùng Kiếm Ý đoạt lấy Thiên Đạo hủy diệt trong Lôi Kiếp để bước vào cảnh giới Kiếm Tiên. Một khi thành công, thiên ý nổi giận, sẽ trực diện Thiên Kiếp cuối cùng.</Desc>
+						<DisplayName>Kiếm Hồn</DisplayName>
+						<Desc>Dùng Kiếm Ý đoạt lấy Thiên Đạo hủy diệt trong Lôi Kiếp để bước vào cảnh giới Kiếm Tiên. Một khi thành công, thiên ý nổi giận, sẽ trực diện Thiên Kiếp cuối cùng.</Desc>
 						<NeckCountdown>9000</NeckCountdown>
 						<ThunderValue>500000</ThunderValue>
 						<AddModifier>GongYJ_Thunder2</AddModifier>
@@ -163,19 +163,19 @@
 			</Stage>
 
 			<Stage Name="Stage9" Level="12">
-				<DisplayName>Kiếm Tiên</DisplayName>
-				<Desc>Dùng Thiên Lôi tôi luyện Kiếm Hồn, chứng đắc Thuần Dương, phi thăng thiên giới.</Desc>
+				<DisplayName>Kiếm Tiên</DisplayName>
+				<Desc>Dùng Thiên Lôi tôi luyện Kiếm Hồn, chứng đắc Thuần Dương, phi thăng thiên giới.</Desc>
 				<Value>10000000</Value>
 				<Necks>
 					<Neck Location="0.9" Kind="Chance">
-						<DisplayName>Kiếm Đồ</DisplayName>
-						<Desc>Đời này chỉ còn một con đường tiến thêm: thành Tiên. Một khi vượt qua cửa ải này, thiên ý nổi giận, sẽ trực diện Thiên Kiếp cuối cùng.</Desc>
+						<DisplayName>Kiếm Đồ</DisplayName>
+						<Desc>Đời này chỉ còn một con đường tiến thêm: thành Tiên. Một khi vượt qua cửa ải này, thiên ý nổi giận, sẽ trực diện Thiên Kiếp cuối cùng.</Desc>
 						<CostTime>5000</CostTime>
 						<SuccessChange>1</SuccessChange>
 					</Neck>
 					<Neck Location="1" Kind="God">
-						<DisplayName>Kiếm Tiên</DisplayName>
-						<Desc>Dùng Thiên Lôi tôi luyện Kiếm Hồn, chứng đắc Thuần Dương, phi thăng thiên giới.</Desc>
+						<DisplayName>Kiếm Tiên</DisplayName>
+						<Desc>Dùng Thiên Lôi tôi luyện Kiếm Hồn, chứng đắc Thuần Dương, phi thăng thiên giới.</Desc>
 						<NeckCountdown>18000</NeckCountdown>
 						<ThunderValue>1000000</ThunderValue>
 						<AddModifier>GongYJ_Thunder3</AddModifier>

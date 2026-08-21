@@ -1,14 +1,14 @@
 <Experiences><List>
 	<Experience Name="SYS_LOST">
-		<DisplayName>Thiếu Mod</DisplayName>
-		<Desc>Vật thất lạc, không ai nhận ra thứ này.\n(Thiếu Mod)</Desc>
+		<DisplayName>Thiếu Mod</DisplayName>
+		<Desc>Vật thất lạc, không ai nhận ra thứ này.\n(Thiếu Mod)</Desc>
 		<Point>0</Point>
 		<Hide>1</Hide>
 	</Experience>
 	<!--
 	<Experience Name="E_Item1">
-		<DisplayName>Con Nhà Giàu</DisplayName>
-		<Desc>Trước khi nhập môn, ngươi vốn xuất thân từ gia đình giàu có.</Desc>
+		<DisplayName>Con Nhà Giàu</DisplayName>
+		<Desc>Trước khi nhập môn, ngươi vốn xuất thân từ gia đình giàu có.</Desc>
 		<Point>1</Point>
 		<NpcSlot>1</NpcSlot>
 		<ModifierDef>
@@ -32,8 +32,8 @@
 	-->
 	
 	<Experience Name="ZiYongKaiJu">
-		<DisplayName>Khởi Đầu Cá Nhân</DisplayName>
-		<Desc>Khởi đầu mang theo một số công pháp, bí tịch và nguyên liệu.[/size]</Desc>
+		<DisplayName>Khởi Đầu Cá Nhân</DisplayName>
+		<Desc>Khởi đầu mang theo một số công pháp, bí tịch và nguyên liệu.[/size]</Desc>
 		<Point>5</Point>
 		<RaceKind>Human</RaceKind>
 		<NpcSlot>9</NpcSlot>
@@ -75,8 +75,8 @@
 	</Experience>
 
 	<Experience Name="XuanShiSan">
-		<DisplayName>Huyền Thập Tam</DisplayName>
-		<Desc>Khởi đầu mang theo công pháp và bí tịch.[/size]</Desc>
+		<DisplayName>Huyền Thập Tam</DisplayName>
+		<Desc>Khởi đầu mang theo công pháp và bí tịch.[/size]</Desc>
 		<Point>6</Point>
 		<RaceKind>Human</RaceKind>
 		<Hide>1</Hide>

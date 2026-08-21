@@ -1,5 +1,5 @@
 <FabaoFormulas><List>
-	<!-- Vô Trần Kiếm -->
+	<!-- Vô Trần Kiếm -->
 	<Fabao Name="MiBaoFormula_WuChenJian">
 		<Normal>0</Normal>
 		<ItemName>Item_MiBao_WuChenJian</ItemName>
@@ -8,7 +8,7 @@
 		<Count>1</Count>
 	</Fabao>
 
-	<!-- Trấn Yêu Kiếm -->
+	<!-- Trấn Yêu Kiếm -->
 	<Fabao Name="MiBaoFormula_ZhenYaoJian">
 		<Normal>0</Normal>
 		<ItemName>Item_MiBao_ZhenYaoJian</ItemName>
